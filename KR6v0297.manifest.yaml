@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6v0297/v1
+canonical_location: https://kanripo.org/bkk/KR6v0297/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 馮翊王高潤修平等寺碑
+  identifiers:
+    alt_id:
+    - I01n0096
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0096.xml
+    old_id: I01n0096
+  edition:
+    short: bkk
+editions:
+- short: 佛拓
+  label: 佛拓
+  source_xml_id: wit.orig
+- short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0297_000.yaml, hash: 'sha256:8e49849d5425e393a107c67c99bbcd537590a25d8e4550a815d1bd8998bf50b1'}
+  - {seq: 1, filename: KR6v0297_001.yaml, hash: 'sha256:dd352be1f3f3bccd68f9132706c8d3900f9afd3148953f3fb7f44a64dc268093'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0297_001.markers.yaml, hash: 'sha256:b0e27970ae5ffd9a72df24a760e424a5a82e715dd60fcd092e6ba328ba151a98'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0297_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 1102
+  label: 馮翊王高潤修平等寺碑
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0297_I_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 篆額
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0297_I_001-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 本文
+  type: mulu
+  level: 1
+hash: sha256:f82643f7d3cf50e3b99243e96a5f1c97a2bbe3e4271d73122b8c8da27eeaef3d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

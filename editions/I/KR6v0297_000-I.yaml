@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0297/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 馮翊王高潤修平等寺碑
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0096.xml
+    old_id: I01n0096
+hash: sha256:8e49849d5425e393a107c67c99bbcd537590a25d8e4550a815d1bd8998bf50b1
