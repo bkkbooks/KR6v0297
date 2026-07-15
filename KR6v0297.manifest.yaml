@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0297/v1
 canonical_location: https://kanripo.org/bkk/KR6v0297/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 馮翊王高潤修平等寺碑
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0297_000.yaml, hash: 'sha256:8e49849d5425e393a107c67c99bbcd537590a25d8e4550a815d1bd8998bf50b1'}
-  - {seq: 1, filename: KR6v0297_001.yaml, hash: 'sha256:69e8e50d88dc166e41a02c9af50e95cf58df5e4f9c5b31addfabba3e1d868077'}
+  - {seq: 1, filename: KR6v0297_001.yaml, hash: 'sha256:dd352be1f3f3bccd68f9132706c8d3900f9afd3148953f3fb7f44a64dc268093'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0297_000.markers.yaml, hash: 'sha256:189a583cb1bf9efda78781a0ce313f0da60836d2ce6e7d8c1d24a233243dc7f5'}
-  - {seq: 1, role: markers, filename: assets/KR6v0297_001.markers.yaml, hash: 'sha256:681ca86e1b2c26160e28d97e5fd02590c69311d3db96fe8d83179c6bc31746ac'}
+  - {seq: 1, role: markers, filename: assets/KR6v0297_001.markers.yaml, hash: 'sha256:3a1ab56b1ed456fdb2e5f507b2c8fedfbc31c77c5a3c39d96e51901a96064811'}
 table_of_contents:
 - ref:
     seq: 1
@@ -57,4 +57,7 @@ table_of_contents:
   label: 本文
   type: mulu
   level: 1
-hash: sha256:4951b4bb425e5eee6961bcd8d60d5025ec956f1daa883d653199047432ca02a7
+hash: sha256:ddaeae9ce7f82ab3e0c2d9384c6c808c509875865604cb4d88b1cd2a72831a7d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
